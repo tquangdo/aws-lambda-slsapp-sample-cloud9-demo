@@ -36,7 +36,7 @@
 ![yaml](screenshots/yaml.png)
 - `git clone codecommit://dtq-lambda-slsapp && cd dtq-lambda-slsapp` 
 - `curl https://iadi4xvera.execute-api.us-east-1.amazonaws.com/Prod/xxx` -> see nothing
-- edit in `get-by-id.js`
+- edit `bodyString` variable in `get-by-id.js`
 ![get-by-id](screenshots/get-by-id.png)
 ```shell
 git add --all
